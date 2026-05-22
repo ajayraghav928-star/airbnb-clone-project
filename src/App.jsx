@@ -1,6 +1,6 @@
 import Navbar from "./Components/Navbar"
 import Hero from "./Components/Hero"
-import Categories from "./components/Categories"
+import Categories from "./Components/Categories"
 import Cards from "./Components/Cards"
 import Footer from "./Components/Footer"
 
